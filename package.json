@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Setting a standard for libs at Hedvig",
   "main": "index.js",
-  "repository": "https://github.com/HedvigInsurance/web-survival-kit",
+  "repository": "https://github.com/HedvigInsurance/libkit",
   "author": "Sam Pettersson <sam@hedvig.com>",
   "license": "MIT",
   "private": false,
