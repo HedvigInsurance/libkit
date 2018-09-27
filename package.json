@@ -1,6 +1,6 @@
 {
   "name": "@hedviginsurance/libkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Setting a standard for libs at Hedvig",
   "main": "index.js",
   "repository": "https://github.com/HedvigInsurance/libkit",
