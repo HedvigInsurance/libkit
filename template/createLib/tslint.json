@@ -11,12 +11,6 @@
     "object-literal-sort-keys": false,
     "interface-name": false,
     "no-submodule-imports": false,
-    "no-implicit-dependencies": [
-      true,
-      [
-        "src",
-        "assets"
-      ]
-    ]
+    "no-implicit-dependencies": false
   }
 }

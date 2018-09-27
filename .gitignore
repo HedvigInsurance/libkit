@@ -3,4 +3,5 @@ dist
 yarn-error.log
 
 /template/*/yarn.lock
+.rpt2_cache
 
